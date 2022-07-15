@@ -1,3 +1,7 @@
 # city-skyline 
  City Skyline 
-<img src="https://raw.githubusercontent.com/CodrinGavan/city-skyline-/master/City-Skyline.png"/>
+ <ul>
+ <li>
+ <a href="https://codringavan.github.io/city-skyline-/">Live Preview</a>
+ </li>
+ </ul>
